@@ -1,0 +1,15 @@
+.link {
+  display: inline-block;
+}
+.link::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: gray;
+  transition: width 0.3s;
+}
+
+.link:hover::after {
+  width: 100%;
+}
