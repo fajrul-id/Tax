@@ -24,8 +24,8 @@ export default function Navbar() {
     },
   ];
   return (
-    <nav className="sticky top-0 z-30 bg-white bg-opacity-[95%] w-full max-h-16 min-h-16">
-      <div className="flex flex-row justify-between items-center px-10 shadow-md">
+    <nav className="sticky top-0 z-30 bg-white bg-opacity-[95%] w-full max-h-16">
+      <div className="flex flex-row justify-between items-center px-10 shadow-md min-h-[60px]">
         <div id="logo">
           <h1 className="text-md md:text-2xl ">Ana Christyawati</h1>
         </div>

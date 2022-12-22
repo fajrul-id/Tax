@@ -15,7 +15,7 @@ const Services = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
@@ -39,7 +39,7 @@ const Services = () => {
         </div>
 
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
@@ -63,7 +63,7 @@ const Services = () => {
         </div>
 
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
@@ -87,7 +87,7 @@ const Services = () => {
         </div>
 
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
@@ -111,7 +111,7 @@ const Services = () => {
         </div>
 
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
@@ -135,7 +135,7 @@ const Services = () => {
         </div>
 
         <div className="relative group w-64 h-72 overflow-hidden bg-black m-auto">
-          <Image
+          <img
             className="object-cover w-full h-full transform duration-700 backdrop-opacity-100"
             src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1650&q=80"
           />
