@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const TeamCard = () => {
   return (
     <div className="max-w-sm bg-white rounded-lg hover:shadow-lg hover:scale-105 duration-500">
