@@ -3,12 +3,11 @@ const Hero = () => {
     <>
       <section className="">
         <div
-          className="relative overflow-hidden bg-no-repeat bg-cover"
+          className="relative overflow-hidden bg-no-repeat bg-cover h-[92vh]"
           style={{
             backgroundPosition: "50%",
             backgroundImage:
               'url("https://t3.ftcdn.net/jpg/00/84/71/02/360_F_84710252_ZrquscCqzOdXW00o6wMebF1TUp3wjkq9.jpg")',
-            height: "400px",
           }}
         >
           <div
@@ -24,7 +23,7 @@ const Hero = () => {
                   Tax and Accounting
                 </h1>
                 <a
-                  href="#"
+                  href="#about_us"
                   id="button"
                   className="mt-8 shadow-md bg-blue-400 inline-block px-7 py-3 border-2
                 border-white text-white font-medium text-sm leading-snug uppercase rounded hover:bg-white hover:text-gray-800 hover:bg-opacity-8 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
